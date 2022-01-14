@@ -1,0 +1,33 @@
+body{
+	font-family: border-box;
+	background-color:#cc46f2 ;
+}
+h1, h2, p, li{
+	color: #ffffff
+}
+.photo{
+	width: 250px;
+	float: right;
+}
+h2{
+	color: #ffffff;
+}
+h1{
+	color: #ffffff;
+}
+.photo2{
+	width: 280px;
+	float: right;
+	padding-right: 50px;
+}
+.photo3{
+	width: 250px;
+	float: right;
+	padding-bottom: 50px;
+}
+p, ul, li{
+	font-size: 20px;
+}
+.video{
+	color: #2ee3ea; 
+}
